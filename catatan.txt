@@ -8,3 +8,5 @@ Doni Belajar GIT
 
 7. tujuh
 8. delapan
+
+9. sembilan
